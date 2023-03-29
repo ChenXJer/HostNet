@@ -70,4 +70,4 @@ Please contribute.
 License
 ---
 
-This software is licensed under the [Apache License](
+This software is licensed under the [Apache License](http://www.apache.org/licenses/)
