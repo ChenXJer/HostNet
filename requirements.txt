@@ -1,0 +1,6 @@
+d2l==0.17.5
+numpy==1.19.2
+pandas==1.2.4
+scikit_learn==1.2.2
+torch==1.11.0+cu113
+tqdm==4.50.2
