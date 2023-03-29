@@ -11,7 +11,7 @@
 1. [下载并安装 Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)。
 2. 克隆 `HostNet` 存储库：`git clone https://github.com/ChenXJer/HostNet.git` 并进入目录 `cd HostNet`
 2. 安装Python依赖：`pip3 install -r requirements.txt`
-2. (可选) 下载原始数据集：`cd origin_data` 并参考 README.md 文件
+2. 下载原始数据集：`cd origin_data` 并参考 README.md 文件
 2. 进入目录 `cd train` 并测试：`python3 train_model.py`
 
 HostNet 配置文件命令
