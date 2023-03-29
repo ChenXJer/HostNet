@@ -2,6 +2,8 @@
 
 **HostNet** is a virus host prediction tool that can make predictions on rabies lyssavirus and flaviviruses, and can provide prediction services on other more data sets.
 
+[中文](https://github.com/ChenXJer/HostNet/tree/main/README_ZH)
+
 ## Install
 
 Note that this implementation has only been tested on Python 3.8.5, we recommend to use linux and miniconda for the enviroment management.
