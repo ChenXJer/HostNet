@@ -13,7 +13,7 @@ Note that this implementation has only been tested on Python 3.8.5, we recommend
 2. Clone the `HostNet` repository: `git clone https://github.com/ChenXJer/HostNet.git` and change directory `cd HostNet`
 
 3. Install Python dependencies: `pip3 install -r requirements.txt`
-4. (Optional) Download the original dataset : `cd origin_data` and refer to the README.md file
+4. Download the original dataset : `cd origin_data` and refer to the README.md file
 5. Change directory `cd train`and test the installation: `python3 train_model.py`
 
 HostNet configuration file commands
