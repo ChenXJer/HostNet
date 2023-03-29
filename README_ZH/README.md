@@ -2,7 +2,7 @@
 
 **HostNet** 是一种病毒宿主预测工具，可以在狂犬病毒和黄病毒上进行预测，并且能够提供在其他更多的数据集上进行预测的服务。
 
-[HOME]("https://github.com/ChenXJer/HostNet")
+[HOME](https://github.com/ChenXJer/HostNet)
 
 ## 安装
 
