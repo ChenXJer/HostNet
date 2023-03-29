@@ -2,7 +2,7 @@
 
 **HostNet** is a virus host prediction tool that can make predictions on rabies lyssavirus and flaviviruses, and can provide prediction services on other more data sets.
 
-[中文](https://github.com/ChenXJer/HostNet/tree/main/README_ZH)
+[English](https://github.com/ChenXJer/HostNet) [中文](https://github.com/ChenXJer/HostNet/tree/main/README_ZH)
 
 ## Install
 
