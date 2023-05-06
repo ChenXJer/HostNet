@@ -35,8 +35,9 @@ def read_config_and_run(cfg):
     hidden_node = int(config['model']['hidden_node'])
     clw = config['model']['clw'] == 'y'  # Whether to use class_weight loss for oversampling
 
-    files = os.listdir(input_path)
-    assert "Y_train.csv" in files, f"{input_path} must contain Y_train.csv file, but no such file in {files}"
+    if need_train:
+        files = os.listdir(input_path)
+        assert "Y_train.csv" in files, f"{input_path} must contain Y_train.csv file, but no such file in {files}"
 
     if not os.path.exists(output_path): os.mkdir(output_path)
 
